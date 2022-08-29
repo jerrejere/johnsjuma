@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @johnsjuma
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @jerryjohns
+- 👀 I’m interested in frontend development
+- 🌱 I’m currently learning fullstack development
+- 
+📫 How to reach me just dial jerryjuma2002@gmail.com
+
 
 <!---
 johnsjuma/johnsjuma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
